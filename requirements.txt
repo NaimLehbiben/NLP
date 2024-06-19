@@ -1,0 +1,11 @@
+requests
+pandas
+matplotlib
+numpy
+tensorflow
+tqdm
+scikit-learn
+seaborn
+ipykernel
+black
+nltk

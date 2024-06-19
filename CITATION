@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it using the following DOI.
+title: Flickr 8k dataset captions prediction
+authors:
+  - name: NAÏM LEHBIBEN
+    email: naim.lehbiben@dauphine.eu
+  - name:  BAPTISTE ZLOCH
+    email: baptiste.zloch@dauphine.eu
+  - name:  MATTHIEU MONNOT
+    email: matthieu.monnot@dauphine.eu
+license: MIT
